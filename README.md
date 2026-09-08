@@ -5,6 +5,10 @@ bloques y las envia por HTTP POST al backend agregador.
 
 Backend/API que recibe estos datos: [fablab-inacap-sensors-backend](https://github.com/farandal/fablab-inacap-sensors-backend).
 
+📘 **Estudiantes: ver [INSTRUCTIVO.md](INSTRUCTIVO.md)** para la guía completa
+paso a paso (materiales, cableado, instalación de librerías, configuración y
+solución de problemas).
+
 ## Contenido
 
 - [`sensor_ejemplo/sensor_ejemplo.ino`](sensor_ejemplo/sensor_ejemplo.ino) —
